@@ -224,7 +224,7 @@ Code inspired by: https://dweldon.silvrback.com/impersonating-a-user
 
 
 **Last login support**
-This feature requires the user-status (mrt add user-status) package.  It shows the last login time for each user along with
+This feature requires the user-status (meteor add mizzao:user-status) package.  It shows the last login time for each user along with
 a boolean indicating if they are logged in now.  Enable with this configuration:
 
 ```javascript
